@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="title" content="Password Strength Indicator for Enhanced User Experience">
+    <meta name="description" content="An intuitive feature that helps users evaluate the strength of their passwords in real-time, promoting better security practices and improving user experience.">
+    <meta name="keywords" content="password strength, user experience, security, password indicator, web development, user interface">
+    <meta name="author" content="Virendra D. Verma">
+
+
+    <!-- BOOTSTRAP LINK -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <!-- CSS LINK  -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- PASSWORD INPUT -->
+    <div class="container">
+        <div class="inputContainer">
+            <input type="password" name="password" id="password" placeholder="Password">
+            <button type="submit"><i class="bi bi-arrow-right"></i></button>
+            <p id="msgText">Password is <span id="strenghtText"></span></p>
+        </div>
+    </div>
+    <!-- SCRIPT LINK -->
+    <script src="main.js"></script>
+</body>
+</html>
