@@ -26,18 +26,18 @@ This project implements a real-time password strength indicator to provide users
 
 <br>
 <span>Desktop Design</span><br/>
-<a href="#" target="_blank" >
+<a href="https://www.behance.net/gallery/222890715/Password-Strength-Indicator-for-User-Experience" target="_blank" >
 <img src="./img/Password-Strength-Indicator.gif" width="575px"/>
 </a>
 
 <br>
 <span>Desktop UI UX Design</span><br/>
-<a href="#" target="_blank" >
+<a href="https://www.behance.net/gallery/222890715/Password-Strength-Indicator-for-User-Experience" target="_blank" >
 <img src="./img/Password-Strength-IndicatorUIUXLayout.gif" width="575px"/>
 </a>
 <br />
 <span>Desktop Design ui-ux Layout</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/222890715/Password-Strength-Indicator-for-User-Experience" target="_blank" >
 <img src="./img/Password-Strength-Indicator.png" width="225px"/>
 <img src="./img/Password-Strength-IndicatorWeak.png" width="225px"/>
 <img src="./img/Password-Strength-IndicatorMedium.png" width="225px"/>
@@ -45,7 +45,7 @@ This project implements a real-time password strength indicator to provide users
 </a>
 <br />
 <span>Desktop Design</span><br/>
-<a href="#" target="_blank" >
+<a href="https://www.behance.net/gallery/222890715/Password-Strength-Indicator-for-User-Experience" target="_blank" >
 <img src="./img/Password-Strength-IndicatorUIUXLayout.png" width="225px"/>
 <img src="./img/Password-Strength-IndicatorWeakUIUXLayout.png" width="225px"/>
 <img src="./img/Password-Strength-IndicatorMediumUIUXLayout.png" width="225px"/>
@@ -53,6 +53,6 @@ This project implements a real-time password strength indicator to provide users
 </a>
 
 <span>Cover</span><br/>
-<a href="#" target="_blank" >
+<a href="https://www.behance.net/gallery/222890715/Password-Strength-Indicator-for-User-Experience" target="_blank" >
 <img src="./img/cover.png" width="575px"/>
 </a>
